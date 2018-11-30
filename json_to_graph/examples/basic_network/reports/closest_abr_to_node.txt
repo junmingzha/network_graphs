@@ -1,0 +1,6 @@
+Closest ABR to each node:
+Node: R1, ABR: R4-GW, Weight: 10
+Node: R2, ABR: R4-GW, Weight: 20
+Node: R3, ABR: R4-GW, Weight: 10
+Node: R5, ABR: R4-GW, Weight: 20
+Node: R6, ABR: R4-GW, Weight: 10

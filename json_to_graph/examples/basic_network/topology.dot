@@ -1,0 +1,14 @@
+strict graph  {
+R5;
+R1;
+"R4-GW" [color=lightblue];
+R3;
+R2;
+R6;
+R5 -- R1  [weight=10];
+R1 -- "R4-GW"  [weight=10];
+R1 -- R3  [weight=10];
+R1 -- R2  [weight=10];
+"R4-GW" -- R3  [weight=10];
+"R4-GW" -- R6  [weight=10];
+}

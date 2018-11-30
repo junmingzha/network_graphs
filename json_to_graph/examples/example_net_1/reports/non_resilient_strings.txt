@@ -1,0 +1,13 @@
+Non-resilient strings from each node to each ABR:
+Start of string is EDD01-GW, end of string is BRI01, path is ['EDD01-GW', 'EDD01', 'WIC01', 'WSM01', 'SHE01', 'BRI01']
+Start of string is EDD01-GW, end of string is EDD01, path is ['EDD01-GW', 'EDD01']
+Start of string is EDD01-GW, end of string is AHP01, path is ['EDD01-GW', 'EDD01', 'YAT01', 'WTB01', 'WSM01', 'WIC01', 'UBK01', 'SLY01', 'SHE01', 'SFD01', 'PEA01', 'LOL01', 'INK01', 'HMP01', 'HMN01', 'HGR01', 'HER02', 'HER01', 'CUR01', 'COL01', 'CHI01', 'CHA01', 'BRI01', 'BRD01', 'BAS02', 'BAS01', 'AHP02', 'AHP01']
+Start of string is EDD01-GW, end of string is HGR01, path is ['EDD01-GW', 'EDD01', 'HGR01']
+Start of string is EDD01-GW, end of string is HMP01, path is ['EDD01-GW', 'EDD01', 'HGR01', 'INK01', 'HMP01']
+Start of string is EDD01-GW, end of string is INK01, path is ['EDD01-GW', 'EDD01', 'HGR01', 'INK01']
+Start of string is EDD01-GW, end of string is SHE01, path is ['EDD01-GW', 'EDD01', 'WIC01', 'WSM01', 'SHE01']
+Start of string is EDD01-GW, end of string is WIC01, path is ['EDD01-GW', 'EDD01', 'WIC01']
+Start of string is EDD01-GW, end of string is AHP01, path is ['EDD01-GW', 'EDD01', 'WIC01', 'YAT01', 'WTB01', 'WSM01', 'UBK01', 'SLY01', 'SHE01', 'SFD01', 'PEA01', 'LOL01', 'HMN01', 'HER02', 'HER01', 'CUR01', 'COL01', 'CHI01', 'CHA01', 'BRI01', 'BRD01', 'BAS02', 'BAS01', 'AHP02', 'AHP01']
+Start of string is EDD01-GW, end of string is WSM01, path is ['EDD01-GW', 'EDD01', 'WIC01', 'WSM01']
+Start of string is EDD01-GW, end of string is WTB01, path is ['EDD01-GW', 'EDD01', 'WIC01', 'WTB01']
+Start of string is EDD01-GW, end of string is AHP01, path is ['EDD01-GW', 'EDD01', 'WIC01', 'WTB01', 'YAT01', 'UBK01', 'SLY01', 'SFD01', 'PEA01', 'LOL01', 'HMN01', 'HER02', 'HER01', 'CUR01', 'COL01', 'CHI01', 'CHA01', 'BRD01', 'BAS02', 'BAS01', 'AHP02', 'AHP01']

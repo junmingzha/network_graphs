@@ -1,0 +1,3 @@
+Closest node to each ABR:
+Nodes closest to R4-GW:
+[]

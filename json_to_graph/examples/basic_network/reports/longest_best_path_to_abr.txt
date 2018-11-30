@@ -1,0 +1,2 @@
+Longest shortest path to each ABR (furthest node during normal operations):
+Longest path to R4-GW is from R5, weight: 20, path: ['R5', 'R1', 'R4-GW']

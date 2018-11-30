@@ -1,0 +1,6 @@
+Shotest path between each ABR and node (normal routing):
+Node: R2, weight: 20, path: ['R4-GW', 'R1', 'R2']
+Node: R5, weight: 20, path: ['R4-GW', 'R1', 'R5']
+Node: R6, weight: 10, path: ['R4-GW', 'R6']
+Node: R3, weight: 10, path: ['R4-GW', 'R3']
+Node: R1, weight: 10, path: ['R4-GW', 'R1']

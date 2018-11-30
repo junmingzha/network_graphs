@@ -1,0 +1,5 @@
+Non-resilient strings from each node to each ABR:
+Start of string is PGB01-GW, end of string is PGB01, path is ['PGB01-GW', 'PGB01']
+Start of string is PGB01-GW, end of string is AHP01, path is ['PGB01-GW', 'PGB01', 'YAT01', 'WTB01', 'WSM01', 'WIC01', 'UBK01', 'TID01', 'SLY01', 'SHE01', 'SFD01', 'PEA01', 'LOL01', 'INK01', 'HMP01', 'HGR01', 'HER02', 'HER01', 'EDD02', 'EDD01', 'EDD01-GW', 'CUR01', 'COL01', 'CHI01', 'CHA01', 'BRI01', 'BRD01', 'BAS02', 'BAS01', 'AHP02', 'AHP01']
+Start of string is PGB01-GW, end of string is SFD01, path is ['PGB01-GW', 'PGB01', 'TID01', 'SFD01']
+Start of string is PGB01-GW, end of string is AHP01, path is ['PGB01-GW', 'PGB01', 'TID01', 'SFD01', 'YAT01', 'WTB01', 'WSM01', 'WIC01', 'UBK01', 'SLY01', 'SHE01', 'PEA01', 'LOL01', 'INK01', 'HMP01', 'HGR01', 'HER02', 'HER01', 'EDD02', 'EDD01', 'EDD01-GW', 'CUR01', 'COL01', 'CHI01', 'CHA01', 'BRI01', 'BRD01', 'BAS02', 'BAS01', 'AHP02', 'AHP01']

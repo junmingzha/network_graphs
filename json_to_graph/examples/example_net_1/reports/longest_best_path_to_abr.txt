@@ -1,0 +1,3 @@
+Longest shortest path to each ABR (furthest node during normal operations):
+Longest path to EDD01-GW is from SFD01, weight: 90, path: ['SFD01', 'BRD01', 'CHA01', 'UBK01', 'COL01', 'CUR01', 'WTB01', 'WIC01', 'EDD01', 'EDD01-GW']
+Longest path to PGB01-GW is from TID01, weight: 20, path: ['TID01', 'PGB01', 'PGB01-GW']

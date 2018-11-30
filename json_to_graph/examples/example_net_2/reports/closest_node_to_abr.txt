@@ -1,0 +1,7 @@
+Closest node to each ABR:
+Nodes closest to PGB01-GW:
+[('BAS01', 50), ('BAS02', 40), ('BRD01', 40), ('CHA01', 50), ('HER02', 50), ('PGB01', 10), ('SFD01', 30), ('SLY01', 60), ('TID01', 20), ('YAT01', 40)]
+Nodes closest to EDD01-GW:
+[('BRI01', 30), ('CHI01', 40), ('COL01', 50), ('CUR01', 40), ('EDD01', 10), ('EDD02', 10), ('HER01', 50), ('HGR01', 20), ('HMP01', 10), ('INK01', 20), ('LOL01', 40), ('PEA01', 40), ('SHE01', 20), ('WIC01', 20), ('WSM01', 10), ('WTB01', 30)]
+These nodes have equal weight to multiple ABRs:
+{'AHP02': {'PGB01-GW': 70, 'EDD01-GW': 70}, 'AHP01': {'PGB01-GW': 60, 'EDD01-GW': 60}, 'UBK01': {'PGB01-GW': 60, 'EDD01-GW': 60}}

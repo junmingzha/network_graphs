@@ -1,0 +1,6 @@
+Longest path between each node and ABR (worst case routing):
+Longest path from R4-GW to R1, weight: 10, path: ['R4-GW', 'R1']
+Longest path from R4-GW to R2, weight: 20, path: ['R4-GW', 'R1', 'R2']
+Longest path from R4-GW to R3, weight: 20, path: ['R4-GW', 'R1', 'R3']
+Longest path from R4-GW to R5, weight: 20, path: ['R4-GW', 'R1', 'R5']
+Longest path from R4-GW to R6, weight: 10, path: ['R4-GW', 'R6']

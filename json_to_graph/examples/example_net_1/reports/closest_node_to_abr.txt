@@ -1,0 +1,5 @@
+Closest node to each ABR:
+Nodes closest to EDD01-GW:
+[('AHP01', 70), ('AHP02', 80), ('BAS01', 80), ('BAS02', 90), ('BRD01', 80), ('BRI01', 50), ('CHA01', 70), ('CHI01', 50), ('COL01', 50), ('CUR01', 40), ('EDD01', 10), ('HER01', 50), ('HER02', 60), ('HGR01', 20), ('HMN01', 60), ('HMP01', 40), ('INK01', 30), ('LOL01', 50), ('PEA01', 40), ('SFD01', 90), ('SHE01', 40), ('SLY01', 80), ('UBK01', 60), ('WIC01', 20), ('WSM01', 30), ('WTB01', 30), ('YAT01', 70)]
+Nodes closest to PGB01-GW:
+[('PGB01', 10), ('TID01', 20)]
